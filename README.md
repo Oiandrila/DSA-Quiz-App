@@ -60,6 +60,7 @@ Contributions, feedback, and suggestions are welcome!
 Feel free to fork this repo or open issues to improve the app.
 
 
-🧑‍💻 Author
+🧑‍💻 **Author**
+
 Oiandrila Sarkar
 https://github.com/Oiandrila
