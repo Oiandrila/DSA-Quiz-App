@@ -40,6 +40,8 @@ pip install pillow
 
 ### 3. Run the App
 
+Make sure you have the icon file named `test.ico` in your current folder before running
+
 python quiz_app.py
 
 
