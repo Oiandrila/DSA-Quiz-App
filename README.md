@@ -55,6 +55,7 @@ python quiz_app.py
 4.  Export results to a file
 
 🤝 **Contributing**
+
 Contributions, feedback, and suggestions are welcome!
 Feel free to fork this repo or open issues to improve the app.
 
